@@ -1,0 +1,17 @@
+.card{
+    display: inline-block;
+    background-color: lightgoldenrodyellow;
+    vertical-align: top;
+    border-radius: .5rem;
+    margin: 1rem;
+    
+    
+}
+#catalog{
+  display: flex;
+  
+}
+h6{
+  color: red;
+}
+
